@@ -1,6 +1,8 @@
 RENCANA KONTEN THI
 
 -Javascript
+* ES6
+* Freamwork Javascript
 -PHP Freamworks
 -Intervivew
 -Vlog
