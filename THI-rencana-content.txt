@@ -3,6 +3,7 @@ RENCANA KONTEN THI
 -Javascript
 * ES6
 * Freamwork Javascript
+- Struktur Data Dasar
 -PHP Freamworks
 -Intervivew
 -Vlog
