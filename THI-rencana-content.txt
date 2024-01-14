@@ -3,9 +3,11 @@ RENCANA KONTEN THI
 -Javascript
 * ES6
 * Freamwork Javascript
-    ^Angular
-    ^React
+   ^ Vue
+   ^ React
+- Struktur Data Dasar
 -PHP Freamworks
-  ^ Lareval
+  ^ Laravel
 -Intervivew
 -Vlog
+-python
