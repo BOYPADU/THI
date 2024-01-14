@@ -4,6 +4,7 @@ RENCANA KONTEN THI
 * ES6
 * Freamwork Javascript
    ^ Vue
+   ^ React
 - Struktur Data Dasar
 -PHP Freamworks
   ^ Laravel
